@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Architectures/2. 컴퓨터 내부의 데이터 표현.md",
+            "file": "Computer Architectures/4. 컴퓨터 내부의 데이터 표현 - 실수.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architectures/2. 컴퓨터 내부의 데이터 표현.md",
+                "file": "Computer Architectures/4. 컴퓨터 내부의 데이터 표현 - 실수.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +89,9 @@
   },
   "active": "896143c28fd5c05d",
   "lastOpenFiles": [
-    "Computer Architectures/2. 컴퓨터 내부의 데이터 표현.md",
+    "Computer Architectures/4. 컴퓨터 내부의 데이터 표현 - 실수.md",
+    "Computer Architectures/2. 컴퓨터 내부의 데이터 표현 - 진법.md",
+    "Computer Architectures/3. 컴퓨터 내부의 데이터 표현 - 정수.md",
     "Computer Architectures/1. 컴퓨터 구조 개론.md",
     "README.md",
     "Markdown Practice.md",
