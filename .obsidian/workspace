@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "0e8003c87f9057f5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7450d05cd85cc410",
+        "type": "split",
+        "children": [
+          {
+            "id": "896143c28fd5c05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architectures/1. 컴퓨터 구조 개론.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fd3796547669f870",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architectures/1. 컴퓨터 구조 개론.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e06ce6ddae1e44cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "778e8cd37ac690f2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "09301c0ba3dafd36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7cd877005d6d26ce",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0fdf0d7a26edd422",
+    "type": "split",
+    "children": [
+      {
+        "id": "b601ba86da4fe568",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f4557e0a48f02a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Computer Architectures/1. 컴퓨터 구조 개론.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "896143c28fd5c05d",
+  "lastOpenFiles": [
+    "Computer Architectures/1. 컴퓨터 구조 개론.md",
+    "Markdown Practice.md",
+    "2022.02.15.md"
+  ]
+}
