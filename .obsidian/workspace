@@ -4,16 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "896143c28fd5c05d",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Computer Architectures/2. 컴퓨터 내부의 데이터 표현.md",
-            "mode": "source",
-            "source": false
+        "id": "2f50b535569ed509",
+        "type": "split",
+        "children": [
+          {
+            "id": "896143c28fd5c05d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9561e1a83fcebd1a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Architectures/2. 컴퓨터 내부의 데이터 표현.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -69,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architectures/2. 컴퓨터 내부의 데이터 표현.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,9 +108,9 @@
   },
   "active": "896143c28fd5c05d",
   "lastOpenFiles": [
+    "README.md",
     "Computer Architectures/2. 컴퓨터 내부의 데이터 표현.md",
     "Computer Architectures/1. 컴퓨터 구조 개론.md",
-    "README.md",
     "Markdown Practice.md",
     "2022.02.15.md"
   ]
