@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Computer Architectures/3. 조합 논리 회로/1.md",
+            "file": "Network Theory/0. 네트워크의 전체 흐름.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Architectures/3. 조합 논리 회로/1.md",
+                "file": "Network Theory/0. 네트워크의 전체 흐름.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "59a82c9e0ad33652",
   "lastOpenFiles": [
-    "Computer Architectures/3. 조합 논리 회로/1.md",
-    "Computer Architectures/2. 논리 회로 기초/1. 기계어 프로그래밍.md",
-    "Computer Architectures/2. 논리 회로 기초/2. 논리 회로 기초.md",
-    "Computer Architectures/2. 논리 회로 기초/3. 연습문제.md",
-    "Computer Architectures/컴퓨터 구조 개론.md",
-    "Computer Architectures/1. 컴퓨터 내부의 데이터 표현/1. 컴퓨터 내부의 데이터 표현 - 진법.md",
-    "Computer Architectures/1. 컴퓨터 내부의 데이터 표현/2. 컴퓨터 내부의 데이터 표현 - 정수.md",
-    "Computer Architectures/1. 컴퓨터 내부의 데이터 표현/3. 컴퓨터 내부의 데이터 표현 - 실수.md",
+    "Network Theory/0. 네트워크의 전체 흐름.md",
+    "Network Theory/1. 웹 브라우저.md",
+    "Computer Architectures/3. 조합 논리 회로/2. K-map.md",
     "Computer Architectures/1. 컴퓨터 내부의 데이터 표현/4. 컴퓨터 내부의 데이터 표현 - 문자.md",
-    "Computer Architectures/1. 컴퓨터 내부의 데이터 표현/5. 연습문제.md"
+    "Computer Architectures/1. 컴퓨터 내부의 데이터 표현/3. 컴퓨터 내부의 데이터 표현 - 실수.md",
+    "Computer Architectures/1. 컴퓨터 내부의 데이터 표현/2. 컴퓨터 내부의 데이터 표현 - 정수.md",
+    "Computer Architectures/컴퓨터 구조 개론.md",
+    "Computer Architectures/3. 조합 논리 회로/1. 불 대수.md",
+    "Computer Architectures/2. 논리 회로 기초/3. 연습문제.md",
+    "Computer Architectures/1. 컴퓨터 내부의 데이터 표현/1. 컴퓨터 내부의 데이터 표현 - 진법.md"
   ]
 }
